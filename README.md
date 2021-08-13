@@ -1,1 +1,1 @@
-# animals.github.io
+.github.io
